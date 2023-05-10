@@ -1,0 +1,4 @@
+outs:
+- md5: c3edc948216fe458ce7130edb4f482dc
+  size: 31243156
+  path: emails.csv
